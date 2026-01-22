@@ -1,4 +1,4 @@
-# 👋 你好，我是 Eric（工医男）
+# 👋 你好，我是 Eric-senyao（工医男）
 **医疗 AI / 医疗信息化 架构师**｜全栈工程｜超级个体进化中
 
 > Focus: **Health Informatics (LIS/LIMS, FHIR/OMOP)** · **LLM Ops & Gateway** · **RAG / Knowledge Pipeline** · **Edge & Smart Hardware**
