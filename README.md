@@ -46,5 +46,5 @@
 ---
 
 ## 🤝 合作 / 联系
-- Email: （填你的邮箱）
+- Email: ericsenyao@gmail.com/ericsenyao@163.com
 - Website: https://eric-senyao.github.io/eric-senyao/
